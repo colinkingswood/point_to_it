@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.7.0",
+    "react-simple-maps": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.0",
+    "@types/react-simple-maps": "^3.0.6"
+  }
+}
